@@ -1,3 +1,6 @@
+// Inferring mRNA from Protein
+// https://rosalind.info/problems/mrna/
+
 use std::collections::HashMap;
 
 pub fn mrna(rna_seq: String) -> u64 {
